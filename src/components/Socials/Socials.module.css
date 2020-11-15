@@ -1,0 +1,34 @@
+.SocialContainer {
+    background: #fff;
+    margin: 15px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+a.Social {
+    padding: 15px;
+    transition: transform 250ms;
+    flex: 1;
+
+    /* display: inline-block; */
+  }
+
+  a.Social:hover {
+    transform: translateY(-2px);
+  }
+
+  a.Github {
+    color: #000;
+  }
+  
+  a.Linkedin {
+    color: #21567e
+  }
+  
+  a.Twitter {
+    color: #49a1eb;
+  }
+  
+  a.Orcid {
+    color: #a1c836;
+  }

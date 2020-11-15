@@ -1,0 +1,27 @@
+.Profile {
+    border-right: 1px solid #cecece;
+    height: 500px;
+    /* width: 300px; */
+    padding: 30px;
+    text-align: center;
+    flex: 1;
+}
+
+.Name {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.Detail {
+    background-color: #fff;
+    flex: 1 300px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.Detail img {
+    padding-top: 1em;
+    float: left;
+    margin-right: 30px;
+    /* margin-bottom: 15px; */
+}

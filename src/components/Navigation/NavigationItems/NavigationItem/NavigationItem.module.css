@@ -1,0 +1,19 @@
+/* .NavigationItem {
+
+}
+
+.NavigationItem a {
+
+} */
+
+@media (min-width: 500px) {
+    .NavigationItem {
+        display: inline-block;
+        margin-right: 1rem;
+    }
+    
+    .NavigationItem a {
+        color: #464646;
+        text-decoration: none;
+    }
+}
